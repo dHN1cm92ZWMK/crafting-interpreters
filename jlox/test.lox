@@ -1,0 +1,5 @@
+print "hello"; // print "hello"
+var x; // declare variable
+var y = 1 * 5; // compute
+var z = (x+y+1/2);
+var w=x*y+z;
